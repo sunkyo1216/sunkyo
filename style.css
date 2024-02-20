@@ -1,0 +1,65 @@
+/* General styles */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f7f5;
+    color: #333;
+}
+
+header, footer {
+    background-color: #ffedd2;
+    text-align: center;
+    padding: 20px 0;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+section {
+    margin: 40px 0;
+}
+
+/* Timeline styles */
+#timeline .event {
+    margin-bottom: 20px;
+}
+
+.event h3 {
+    color: #9966cc;
+}
+
+.date {
+    color: #999;
+}
+
+/* Skills styles */
+#skills .skill {
+    margin-bottom: 15px;
+}
+
+.skill h3 {
+    color: #339966;
+}
+
+.progress {
+    background-color: #339966;
+    color: #fff;
+    padding: 5px;
+}
+
+/* Interests styles */
+#interests ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#interests li {
+    color: #cc6666;
+}
+
+/* Footer styles */
+footer {
+    font-style: italic;
+}
